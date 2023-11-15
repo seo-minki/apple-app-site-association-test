@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "PJ7395JU4G.com.paymint.PayssamIosManager",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
